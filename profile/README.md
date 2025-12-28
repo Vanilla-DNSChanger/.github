@@ -6,7 +6,7 @@
 
 **🌐 Open-source DNS Management Suite**
 
-[![Website](https://img.shields.io/badge/Website-vanilla--dnschanger.github.io-53FC18?style=for-the-badge)](https://vanilla-dnschanger.github.io/vanilla-dns-changer)
+[![Website](https://img.shields.io/badge/Website-vanilla--dnschanger.github.io-53FC18?style=for-the-badge)](https://vanilla-dnschanger.github.io)
 [![Downloads](https://img.shields.io/github/downloads/Vanilla-DNSChanger/vanilla-dns-changer/total?style=for-the-badge&color=53FC18)](https://github.com/Vanilla-DNSChanger/vanilla-dns-changer/releases)
 
 </div>
@@ -23,7 +23,7 @@ We develop open-source DNS management tools that are **fast**, **secure**, and *
 |---------|-------------|----------|
 | [**Desktop App**](https://github.com/Vanilla-DNSChanger/vanilla-dns-changer/releases) | Electron-based GUI application | Windows, macOS, Linux |
 | [**CLI Tool**](https://www.npmjs.com/package/@vanilla-dns/cli) | Command-line interface | All platforms |
-| [**Website**](https://vanilla-dnschanger.github.io/vanilla-dns-changer) | Documentation & downloads | Web |
+| [**Website**](https://vanilla-dnschanger.github.io) | Documentation & downloads | Web |
 
 ---
 
@@ -73,6 +73,6 @@ We welcome contributions! Check out our [main repository](https://github.com/Van
 
 **Made with ❤️ by [SudoLite](https://x.com/sudolite)**
 
-[🌐 Website](https://vanilla-dnschanger.github.io/vanilla-dns-changer) • [📦 Releases](https://github.com/Vanilla-DNSChanger/vanilla-dns-changer/releases) • [🐛 Issues](https://github.com/Vanilla-DNSChanger/vanilla-dns-changer/issues)
+[🌐 Website](https://vanilla-dnschanger.github.io) • [📦 Releases](https://github.com/Vanilla-DNSChanger/vanilla-dns-changer/releases) • [🐛 Issues](https://github.com/Vanilla-DNSChanger/vanilla-dns-changer/issues)
 
 </div>
